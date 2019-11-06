@@ -1,0 +1,9 @@
+C:\Users\Jonathan\source\repos\UnisysV4\UnisysV4\bin\Debug\Routines.mdf
+C:\Users\Jonathan\source\repos\UnisysV4\UnisysV4\bin\Debug\Routines_log.ldf
+C:\Users\Jonathan\source\repos\UnisysV4\UnisysV4\bin\Debug\UnisysV4.exe.config
+C:\Users\Jonathan\source\repos\UnisysV4\UnisysV4\bin\Debug\UnisysV4.exe
+C:\Users\Jonathan\source\repos\UnisysV4\UnisysV4\bin\Debug\UnisysV4.pdb
+C:\Users\Jonathan\source\repos\UnisysV4\UnisysV4\obj\Debug\UnisysV4.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\UnisysV4\UnisysV4\obj\Debug\UnisysV4.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\UnisysV4\UnisysV4\obj\Debug\UnisysV4.exe
+C:\Users\Jonathan\source\repos\UnisysV4\UnisysV4\obj\Debug\UnisysV4.pdb
